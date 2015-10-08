@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_art">Art</string>
+    <string name="artText">I enjoy drawing.  I\'ve been working hard to get better.</string>
+    <string name="readingText">I love to read.  My favorite genres are action, adventure, fantasy, and mystery.  My favorite book is The Way of Kings.</string>
+    <string name="rubiksText">I can solve a 3x3 Rubik\'s Cube in 40 seconds.  I can also solve a 4x4, 5x5, and a pentagonal dodecahedron.</string>
+    <string name="cartoonsText">I like animation.  I hope to someday be able to animate myself, but in the meantime I enjoy watching it.  Some of my favorite shows are Gravity Falls, Adventure Time, and Over the Garden Wall.</string>
+    <string name="gamesText">I love and play all video games.  Some of my current favorite games are Professor Layton, Arkham Knight, Transisitor, Shadow of the Colossus, and A Link Between Worlds.</string>
+    <string name="title_activity_reading">Reading</string>
+    <string name="title_activity_rubiks_cube">Rubiks Cube</string>
+    <string name="title_activity_cartoons">Cartoons</string>
+    <string name="title_activity_video_games">Video Games</string>
+</resources>
